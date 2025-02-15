@@ -3,7 +3,7 @@ import google.generativeai as genai
 import fitz  # PyMuPDF for PDF extraction
 
 # Configure API Key
-API_KEY = "AIzaSyDvPXNjxYSQcRP7rOIY3VlF8MzKlwHdgvo"
+API_KEY = "AIzaSyDvPXNjxYSQcRP7rOIY3VlF8MzKlwHdgvos"
 genai.configure(api_key=API_KEY)
 
 # Initialize models for different tasks
